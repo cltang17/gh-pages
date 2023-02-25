@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Fudan Graph Theory Group</title>
+    <link href="https://cltang17.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://cltang17.github.io/gh-pages" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>Chaoliang Tang</name>
+    </author>
+    <id>https://cltang17.github.io/gh-pages</id>
+
+</feed>
