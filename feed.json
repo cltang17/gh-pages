@@ -9,5 +9,43 @@
         "name": "Chaoliang Tang"
     },
     "items": [
+        {
+            "id": "https://cltang17.github.io/gh-pages/course.html",
+            "url": "https://cltang17.github.io/gh-pages/course.html",
+            "title": "Course",
+            "author": {
+                "name": "Chaoliang Tang"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-25T17:12:45+08:00",
+            "date_modified": "2023-02-25T17:12:45+08:00"
+        },
+        {
+            "id": "https://cltang17.github.io/gh-pages/research-interest.html",
+            "url": "https://cltang17.github.io/gh-pages/research-interest.html",
+            "title": "Research Interest",
+            "author": {
+                "name": "Chaoliang Tang"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-25T17:11:32+08:00",
+            "date_modified": "2023-02-25T17:11:32+08:00"
+        },
+        {
+            "id": "https://cltang17.github.io/gh-pages/group-members.html",
+            "url": "https://cltang17.github.io/gh-pages/group-members.html",
+            "title": "Introduction",
+            "summary": "Professors:Hehui Wu Postdocs:Jiaxi Nie Students:Yaobin Chen, Jiayi Lu, Chaoliang Tang, Tianyi Tao, Wentao Zhang, Zeyu Zheng",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 50.0713%;\">\n<p><strong>Professors:</strong><em>Hehui Wu</em></p>\n<p><strong>Postdocs:</strong><em>Jiaxi Nie</em></p>\n<p><strong>Students:</strong><em>Yaobin Chen,</em> <em>Jiayi Lu, Chaoliang Tang, Tianyi Tao, Wentao Zhang, Zeyu Zheng</em></p>\n</td>\n<td style=\"width: 50.0713%;\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cltang17.github.io/gh-pages/media/posts/1/IMG_0124.JPG\" alt=\"\" width=\"4032\" height=\"3024\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://cltang17.github.io/gh-pages/media/posts/1/responsive/IMG_0124-xs.JPG 300w ,https://cltang17.github.io/gh-pages/media/posts/1/responsive/IMG_0124-sm.JPG 480w ,https://cltang17.github.io/gh-pages/media/posts/1/responsive/IMG_0124-md.JPG 768w\"></figure></td>\n</tr>\n<tr>\n<td style=\"width: 50.0713%;\"> </td>\n<td style=\"width: 50.0713%;\"> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Chaoliang Tang"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-25T17:01:47+08:00",
+            "date_modified": "2023-02-25T17:08:49+08:00"
+        }
     ]
 }

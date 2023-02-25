@@ -3,10 +3,74 @@
     <title>Fudan University Graph Theory Group</title>
     <link href="https://cltang17.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://cltang17.github.io/gh-pages" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2023-02-25T17:12:45+08:00</updated>
     <author>
         <name>Chaoliang Tang</name>
     </author>
     <id>https://cltang17.github.io/gh-pages</id>
 
+    <entry>
+        <title>Course</title>
+        <author>
+            <name>Chaoliang Tang</name>
+        </author>
+        <link href="https://cltang17.github.io/gh-pages/course.html"/>
+        <id>https://cltang17.github.io/gh-pages/course.html</id>
+
+        <updated>2023-02-25T17:12:45+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Research Interest</title>
+        <author>
+            <name>Chaoliang Tang</name>
+        </author>
+        <link href="https://cltang17.github.io/gh-pages/research-interest.html"/>
+        <id>https://cltang17.github.io/gh-pages/research-interest.html</id>
+
+        <updated>2023-02-25T17:11:32+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Introduction</title>
+        <author>
+            <name>Chaoliang Tang</name>
+        </author>
+        <link href="https://cltang17.github.io/gh-pages/group-members.html"/>
+        <id>https://cltang17.github.io/gh-pages/group-members.html</id>
+
+        <updated>2023-02-25T17:08:49+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Professors:Hehui Wu Postdocs:Jiaxi Nie Students:Yaobin Chen, Jiayi Lu, Chaoliang Tang, Tianyi Tao, Wentao Zhang, Zeyu Zheng
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50.0713%;">
+<p><strong>Professors:</strong><em>Hehui Wu</em></p>
+<p><strong>Postdocs:</strong><em>Jiaxi Nie</em></p>
+<p><strong>Students:</strong><em>Yaobin Chen,</em> <em>Jiayi Lu, Chaoliang Tang, Tianyi Tao, Wentao Zhang, Zeyu Zheng</em></p>
+</td>
+<td style="width: 50.0713%;"><figure class="post__image"><img loading="lazy"  src="https://cltang17.github.io/gh-pages/media/posts/1/IMG_0124.JPG" alt="" width="4032" height="3024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://cltang17.github.io/gh-pages/media/posts/1/responsive/IMG_0124-xs.JPG 300w ,https://cltang17.github.io/gh-pages/media/posts/1/responsive/IMG_0124-sm.JPG 480w ,https://cltang17.github.io/gh-pages/media/posts/1/responsive/IMG_0124-md.JPG 768w"></figure></td>
+</tr>
+<tr>
+<td style="width: 50.0713%;"> </td>
+<td style="width: 50.0713%;"> </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
